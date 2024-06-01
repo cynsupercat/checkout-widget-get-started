@@ -11,7 +11,7 @@
   },
   "stackblitz": {
     "installDependencies": false,
-    "startCommand": "npm i --force && npm run start"
+    "startCommand": "npm i --force && npm run dev"
   },
   "dependencies": {
     "@imtbl/sdk": "^1.39.5-alpha",
