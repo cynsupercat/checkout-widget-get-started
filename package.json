@@ -9,6 +9,9 @@
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
   },
+  "stackblitz": {
+    "startCommand": "npm i --force && npm run start"
+  },
   "dependencies": {
     "@imtbl/sdk": "^1.39.5-alpha",
     "buffer": "^6.0.3",
